@@ -27,6 +27,8 @@ Using a knowledge base of structured rules and **Certainty Factor (CF)** logic, 
 - 💬 **Interactive Q&A experience** simulating a human expert’s guidance
 - 🧾 **Organized output** for clarity and user understanding
 
+
+![example](sample1.png)
 ---
 
 ## 📦 Requirements
